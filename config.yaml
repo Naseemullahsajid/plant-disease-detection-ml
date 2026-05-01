@@ -1,0 +1,7 @@
+# configs/config.yaml
+batch_size: 32
+epochs: 10
+learning_rate: 0.001
+model_name: "resnet"  # cnn or resnet
+num_classes: 38  # update based on dataset
+device: "cpu"  # or "cpu"

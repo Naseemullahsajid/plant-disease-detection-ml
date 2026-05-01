@@ -1,0 +1,23 @@
+1. split_data.py
+        ↓
+2. eda.py
+        ↓
+3. visualize.py
+        ↓
+4. data_loader.py
+        ↓
+5. test_dataloader.py  
+        ↓
+6. model.py
+        ↓
+7. early_stopping.py
+        ↓
+8. train.py   → best_model.pth
+        ↓
+9. evaluate.py
+        ↓
+10. infer.py
+        ↓
+11. app.py (FastAPI)
+        ↓
+12. Dockerfile
